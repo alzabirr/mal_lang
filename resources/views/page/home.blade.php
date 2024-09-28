@@ -35,7 +35,7 @@
 
 
           <div class="mt-20 flex items-center justify-center ">
-            <a href="#" class="rounded-md bg-indigo-600 px-4 py-4 text-xl font-semibold text-white shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 mal-font">Get started</a>
+            <a href="#" class="rounded-md bg-indigo-600 px-4 py-4 text-xl font-semibold text-white shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 mal-font">Get Started</a>
 
           </div>
 
