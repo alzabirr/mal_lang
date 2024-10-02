@@ -26,7 +26,7 @@
         <div class="relative isolate px-6 pt-20 lg:px-8">
             </div>
             <div class="text-center fon">
-              <h1 class="text-4xl font-bold tracking-tight text-white sm:text-6xl font-Press mal-font  " >Mal Lang 2.o</h1>
+              <h1 class="text-4xl font-bold tracking-tight text-white sm:text-6xl font-Press mal-font  " >Mal Lang 2.0</h1>
               <p class="mt-6 text-lg leading-8 text-white ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque rem eius iusto inventore! Architecto laborum nulla optio maiores nobis qui..</p>
 
             </div>
@@ -38,6 +38,8 @@
             <a href="#" class="rounded-md bg-indigo-600 px-4 py-4 text-xl font-semibold text-white shadow-sm focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 mal-font">Get Started</a>
 
           </div>
+
+          @include("layout.footer")
 
 
 </body>

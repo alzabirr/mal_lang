@@ -12,8 +12,8 @@ class siteController extends Controller
     }
 
     // documentation page function
-    function documentationPage(){
-        return view('page.documentation');
+    function docPage(){
+        return view('page.doc');
     }
 
 }
