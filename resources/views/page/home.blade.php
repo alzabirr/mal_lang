@@ -27,7 +27,7 @@
             </div>
             <div class="text-center fon">
               <h1 class="text-4xl font-bold tracking-tight text-white sm:text-6xl font-Press mal-font  " >Mal Lang 2.0</h1>
-              <p class="mt-6 text-lg leading-8 text-white ">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque rem eius iusto inventore! Architecto laborum nulla optio maiores nobis qui..</p>
+              <p class="mt-6 text-lg leading-8 text-white font-Press mal-font   ">WHY IS MAL LANG ? <br> NOTHIS FOR SOMETHING</p>
 
             </div>
           </div>
