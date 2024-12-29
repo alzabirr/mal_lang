@@ -4,11 +4,14 @@ export default {
   theme: {
     extend: {
         colors:{
-            light: '#67e8f9',
+            "custom-color":"#9F5255",
+
+
         },
 
     },
   },
   plugins: [],
 }
+
 
